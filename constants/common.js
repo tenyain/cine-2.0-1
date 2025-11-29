@@ -7,8 +7,8 @@ export const BASE_URL = `https://api.themoviedb.org/3/`; /* TMDB api version 3 *
 /**
  *  YTS Torrent API
  */
-export const YTS_TORRENT = `https://yts.mx/api/v2/list_movies.json?query_term=`;
-export const YTS_DOWNLOAD = `https://yts.mx/torrent/download/`;
+export const YTS_TORRENT = `https://yts.lt/api/v2/list_movies.json?query_term=`;
+export const YTS_DOWNLOAD = `https://yts.lt/torrent/download/`;
 
 /*
  *  Image paths
